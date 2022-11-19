@@ -1,0 +1,124 @@
+*{
+    font-family: 'Nunito Sans', sans-serif;
+    box-sizing: border-box;
+   
+}
+
+body{
+    background-color: #0f0e17;
+    color: #a7a9be
+}
+
+a{
+    text-decoration: none;
+    color: #fffffe;
+}
+
+h1{
+    font-size: 4rem;
+    color: #fffffe;
+}
+
+h2{
+    color: #fffffe;
+    font-size: 2.3rem;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+/* Nav Bar */
+.nav-banner{
+    /* opacity: 1;
+    position: fixed;
+    top: 0; */
+    display: flex;
+    margin: 5px 50px;
+    padding: 20px 50px;
+    align-items: center;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.nav-logo{
+    margin: 0 20px;
+}
+
+i{
+    color: #FE9A00;
+}
+
+.nav-items{
+    margin: 0 20px;
+}
+
+.nav-link{
+   padding: 0 20px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1;
+    cursor: pointer;
+    height: 70px;
+    font-size: 1.3rem;
+}
+
+.nav-block{
+    display: inline;
+    background-color: #FE9A00;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Intro */
+#intro{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 45px;
+    margin: 0 auto;
+}
+
+img{
+    width: 35%;
+    border-radius: 15%;
+}
+
+.img-div{
+    width: fit-content;
+    display: flex;
+    align-content: center;
+    justify-content: space-around
+}
+
+
+/* Career */
+#career{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px 4s0px;
+    margin: 0 auto;
+}
+
+.career-bio{
+    width: 470px;
+}
+
+.skill{
+    border: solid 1px #fffffe;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.skillset{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        gap: 15px;
+}
