@@ -10,6 +10,8 @@ Create a portfolio site for self; a reference is attached below indicating:
 
 -skill set list
 
+Link to final look: https://drive.google.com/file/d/1Un6c5XWvpYU9Pris_JqUBNDUbvp7vXLN/view?usp=share_link
+
 
 
 
